@@ -7,7 +7,6 @@
 
 /* Table of Content
 ==================================================
-
 #BOOSTRAP CUSTOMIZATION
 #TYPOGRAPHY
 #LINKS AND BUTTONS
@@ -18,7 +17,6 @@
 #PORTFOLIO
 #MISCELANIOUS
 #NEKO CSS FRAMEWORK
-
 */
 
 /* BOOSTRAP CUSTOMIZATION
@@ -68,16 +66,16 @@ h2.subTitle:after, h1.noSubtitle:after{
 	background-image:url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-orange-3.jpg);
 }
 #paralaxSlice1 {
-	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-1.jpg');
+	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-1.jpg);
 }
 #paralaxSlice2 {
-	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-blue-2.jpg');
+	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-blue-2.jpg);
 }
 #paralaxSlice3 {
-	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-blue-3.jpg');
+	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-blue-3.jpg);
 }
 #paralaxSlice4 {
-	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-4.jpg');
+	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-4.jpg);
 }
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
 	color:#fff;
@@ -178,7 +176,7 @@ ul.iconsList li a:hover, ul.iconsList i {
 footer {
 	color:#777;
 	background:#eee;
-	border-top:1px solid #555s;
+	border-top:1px solid #555;
 }
 
 #footerRights {
