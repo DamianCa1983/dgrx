@@ -61,12 +61,13 @@ h2.subTitle:after, h1.noSubtitle:after{
 }
 #home, #paralaxSlice1, #paralaxSlice2, #paralaxSlice3, #paralaxSlice4 {
 	background-color:#4FAFC2;
+	height: 700px;
 }
 #home {
 	background-image:url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-orange-3.jpg);
 }
 #paralaxSlice1 {
-	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-1.jpg);
+	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-orange-2.jpg);
 }
 #paralaxSlice2 {
 	background-image: url(http://w1421783.ferozo.com/dgrx2/images/theme-pics/paralax-blue-2.jpg);
@@ -79,6 +80,7 @@ h2.subTitle:after, h1.noSubtitle:after{
 }
 .paralaxText blockquote, .paralaxText h1, .paralaxText h2, .paralaxText h3, .paralaxText p, .paralaxText i{
 	color:#fff;
+	margin-top: 220px;
 }
 
 /* END TYPOGRAPHY
@@ -357,6 +359,7 @@ border:none}
 /*** slices ***/
 .slice{
 	background-color:#fff;
+	height: 700px;
 }
 
 /*** call to action ***/
